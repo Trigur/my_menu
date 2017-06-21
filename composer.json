@@ -1,0 +1,24 @@
+{
+  "name": "trigur/my_menu",
+  "description": "ImageCMS module",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/Trigur/my_menu",
+  "type": "imagecms-module",
+  "extra": {
+    "installer-name": "my_menu"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.5",
+    "ext-curl": "*",
+    "composer/installers": "^1.0"
+  },
+  "authors": [
+      {
+        "name": "Trigur",
+        "email": "info@aleskeroff.ru",
+        "homepage": "https://github.com/Trigur"
+      }
+  ]
+}
